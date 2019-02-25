@@ -1,3 +1,3 @@
 Bug Fix 1
-done Feature1 changes
+Feature1 changes are done
 done updates to Feature1
